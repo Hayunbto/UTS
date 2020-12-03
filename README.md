@@ -1,12 +1,5 @@
 # UTS
----
-title: "One R"
-author: "HAYUN"
-date: "27/10/2020"
-output:
-  word_document: default
-  html_document: default
----
+###ONE R
 
 ### Load Library
 Library yang dibutuhkan adalah **oneR**. Silahkan install terlebih dahulu jika belum terisntall, dengan perintah `install.packages("oneR")`
@@ -91,14 +84,7 @@ F1 Score = 0.8125
 
 
 
----
-title: "Zero R"
-author: "HAYUN"
-date: "27/10/2020"
-output:
-  word_document: default
-  html_document: default
----
+###Zero R
 
 ### Load Library
 Library yang dibutuhkan adalah **tidyverse**. Silahkan install terlebih dahulu jika belum terisntall, dengan perintah `install.packages("tidyverse")`. Library ini aka digunakan untuk pengolahan variabel dan data.
